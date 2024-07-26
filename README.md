@@ -614,7 +614,6 @@ cp /root/Desktop/filename /var/www/html/share/
 ## Links
 * [hash.com](https://hashes.com/en/decrypt/hash) is a online hash Identifier and Cracker 
 </details>
+We can also use crackstation.com
 
 Final Words: Grab a cup of Tea ☕ and GRIND!!!
-
-  <img src = "/IMG/motivation.jpg"/>
